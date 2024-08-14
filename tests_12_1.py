@@ -1,5 +1,5 @@
 import unittest
-from zabeg import Runner
+from runner import Runner
 
 
 class RunnerTest(unittest.TestCase):
